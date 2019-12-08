@@ -6,3 +6,4 @@ let square = num =>{
   return num**2
 }
 
+let add = 
