@@ -6,4 +6,6 @@ let square = num =>{
   return num**2
 }
 
-let add = 
+let add = (a,b)=>{
+  return a + b
+}
